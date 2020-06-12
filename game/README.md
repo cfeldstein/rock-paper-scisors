@@ -12,3 +12,14 @@ In this project you will make a Rock, Paper, Scissors game and play against the 
 ## Use python to implement the game play
 ## Write unit tests with pytest
 "Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
+
+## Usage:
+Ensure you are using python3. This was developed using python 3.7 but should work with any version of python3.
+
+From your command line go to: rock-paper-scissors/game/rps
+
+###To Run
+Run: python rps.py
+
+## To Test using pytest
+Run: pytest
